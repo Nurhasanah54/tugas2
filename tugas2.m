@@ -29,5 +29,3 @@ figure(133), imshow(average), title('Average');
 figure(231), imshow(luminosity), title('Luminosity');
 figure(232), imshow(binary), title('Citra Biner');
 
-% Menampilkan gambar asli
-imshow(img), title('Gambar Asli');
